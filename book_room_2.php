@@ -387,7 +387,7 @@
           <a href="semester_booking_2.php" style="margin-right: 10px; text-decoration:none;"> <div class="card">
              
                 <div class="icon2"><i class="material-icons md-36">alternate_email</i></div>
-                <p class="title">學習預借</p>
+                <p class="title">學期預借</p>
                 <p class="text" style="font-size: 20px;">預約使用空間 <br>(教室、MD教室)<br>110-1 預約時間110年 04/23-10/31止<br>110-2 預約時間110年 04/23-10/31止</p>
              
           </div></a>
