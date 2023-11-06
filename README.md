@@ -4,7 +4,7 @@
 # 如何使用
 1.下載[appserve](https://www.appserv.org/en/download/)做為您的web server，才可以執行php檔
 
-2. git clone 專案至"C:\AppServ\www"
+2.git clone 專案至"C:\AppServ\www"
 
 3.開啟 [http://localhost/RoomPlat/](http://localhost/RoomPlat/)
 
