@@ -1,6 +1,14 @@
 # RoomPlat
 這個專案主要是為輔大設計出新的教室預約系統介面
 
+# 如何使用
+1.下載[appserve](https://www.appserv.org/en/download/)做為您的web server，才可以執行php檔
+
+2. git clone 專案至"C:\AppServ\www"
+
+3.開啟 [http://localhost/RoomPlat/](http://localhost/RoomPlat/)
+
+
 # 相關圖示
 
 ##若為admin，則可以設定學期期間
